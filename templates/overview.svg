@@ -58,7 +58,7 @@ tr {
   color: rgb(139, 139, 139);
 }
 .octicon {
-  fill: rgb(139, 139, 139);
+  fill: rgb(43, 188, 138);
   margin-right: 1ch;
   vertical-align: top;
 }
